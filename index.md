@@ -1,9 +1,8 @@
-<style type="text/css">
-.headerimg {
-  width:100%;
-}
-</style>
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+---
 
-<div class="header">
-  <img src="SundaysRevSundays.png" class="headerimg">
-</div>
+<img src="SundaysRevSundays.png" style="width:100%;">
+
