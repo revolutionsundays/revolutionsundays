@@ -4,6 +4,6 @@
 }
 </style>
 
-<div class="headerimg">
-  <img src="SundaysRevSundays.png">
+<div class="header">
+  <img src="SundaysRevSundays.png" class="headerimg">
 </div>
